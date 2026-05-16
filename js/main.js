@@ -226,7 +226,7 @@ function displayRandomData() {
                 </ul>
             </div>
 
-            <button class="btn btn-orange w-100 w-md-auto" onclick="displayRandomMeal()">
+            <button class="btn btn-orange w-100 w-md-auto" onclick="displayRandomData()">
                 <i class="fa-solid fa-rotate me-2"></i> Try Another Recipe
             </button>
         </div>
