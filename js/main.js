@@ -2,7 +2,7 @@ const data = [
   {
     title: "Alfrado pasta",
     desc: "Creamy fettuccine pasta served with a rich garlic parmesan white sauce.",
-    img: "/img/1.jfif",
+    img: "./img/1.jfif",
     rating: "4.9",
     reviews: "412",
     prep: "15 min",
@@ -19,7 +19,7 @@ const data = [
   {
     title: "pizza",
     desc: "Classic thin-crust Italian pizza topped with fresh mozzarella and basil.",
-    img: "/img/2.jfif",
+    img: "./img/2.jfif",
     rating: "4.7",
     reviews: "215",
     prep: "40 min",
@@ -36,7 +36,7 @@ const data = [
   {
     title: "creamy shrimp",
     desc: "Succulent shrimp cooked in a buttery cream sauce with a touch of lemon.",
-    img: "/img/3.jfif",
+    img: "./img/3.jfif",
     rating: "4.8",
     reviews: "180",
     prep: "15 min",
@@ -53,7 +53,7 @@ const data = [
   {
     title: "chicken & fries",
     desc: "Crispy breaded chicken strips served with golden seasoned french fries.",
-    img: "/img/4.jfif",
+    img: "./img/4.jfif",
     rating: "4.9",
     reviews: "560",
     prep: "20 min",
@@ -70,7 +70,7 @@ const data = [
   {
     title: "lasagna",
     desc: "Layers of pasta sheets with hearty bolognese sauce and creamy bechamel.",
-    img: "/img/5.jfif",
+    img: "./img/5.jfif",
     rating: "4.5",
     reviews: "95",
     prep: "30 min",
@@ -87,7 +87,7 @@ const data = [
   {
     title: "red sauce pasta",
     desc: "A simple and delicious pasta tossed in a tangy slow-cooked tomato sauce.",
-    img: "/img/6.jfif",
+    img: "./img/6.jfif",
     rating: "4.8",
     reviews: "310",
     prep: "10 min",
@@ -104,7 +104,7 @@ const data = [
   {
     title: "Burgure",
     desc: "A juicy grilled beef burger with melted cheese and fresh garden toppings.",
-    img: "/img/7.jfif",
+    img: "./img/7.jfif",
     rating: "4.7",
     reviews: "140",
     prep: "15 min",
@@ -121,7 +121,7 @@ const data = [
   {
     title: "dumplings",
     desc: "Traditional steamed dumplings filled with seasoned savory meat and ginger.",
-    img: "/img/8.jfif",
+    img: "./img/8.jfif",
     rating: "4.6",
     reviews: "210",
     prep: "40 min",
@@ -138,7 +138,7 @@ const data = [
   {
     title: "Mediterranean Quinoa Bowl",
     desc: "A healthy mix of quinoa, fresh olives, and feta cheese with lemon dressing.",
-    img: "/img/9.jfif",
+    img: "./img/9.jfif",
     rating: "4.7",
     reviews: "275",
     prep: "20 min",
@@ -155,7 +155,7 @@ const data = [
   {
     title: "caesar salad",
     desc: "Fresh romaine lettuce with crunchy croutons and authentic Caesar dressing.",
-    img: "/img/10.jfif",
+    img: "./img/10.jfif",
     rating: "4.8",
     reviews: "190",
     prep: "15 min",
